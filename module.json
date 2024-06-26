@@ -1,0 +1,22 @@
+{
+    "id": "darkness-control",
+    "title": "Darkness Control",
+    "description": "Simple added tools to manage darkness in your scenes",
+    "url":"https://github.com/DRedFox91/darkness-control",
+    "authors": [
+        {
+            "name": "DRedFox"
+        }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": "11",
+        "verified": "12",
+        "maximum": "12"
+    },
+    "languages": {
+        "lang": "en",
+        "name:": "English",
+        "path": "lang/en.json"
+    }
+}
