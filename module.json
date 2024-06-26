@@ -1,0 +1,25 @@
+{
+  "id": "darkness-control",
+  "title": "Darkness Control",
+  "description": "Darkness slider to control the darkness level through a smooth transition",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "esmodules": [],
+  "authors": [
+    {
+      "name": "DRedFox",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/DRedFox91/darkness-control",
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ]
+}
